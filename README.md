@@ -38,7 +38,8 @@ Does paying more for college lead to better financial outcomes, or do more affor
 
 | File | Description |
 |---|---|
-| `Hendricks_EDA_Project_Phase_2_v2.0.ipynb` | Full notebook: proposal, inspection, cleaning, and analysis |
+| `Hendricks_EDA_College_Report.pdf` | Final written report: research questions, methodology, results, limitations, and conclusions |
+| `Hendricks_EDA_Project_Phase_2_v2.0.ipynb` | Full notebook: inspection, cleaning, and analysis |
 | `college_scorecard_clean.csv` | Cleaned dataset used for the analysis |
 
 ## Author
